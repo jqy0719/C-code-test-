@@ -1,0 +1,5 @@
+﻿  11_09.c
+  指针.c
+e:\code\test11_09\test11_09\指针.c(23): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  正在生成代码...
+  test11_09.vcxproj -> E:\code\test11_09\Debug\test11_09.exe
