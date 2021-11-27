@@ -1,0 +1,6 @@
+﻿  test.c
+e:\code\test11_26\test11_26\test.c(14): warning C4013: “malloc”未定义；假设外部返回 int
+e:\code\test11_26\test11_26\test.c(21): warning C4013: “realloc”未定义；假设外部返回 int
+e:\code\test11_26\test11_26\test.c(34): warning C4013: “free”未定义；假设外部返回 int
+e:\code\test11_26\test11_26\test.c(21): warning C4047: “初始化”:“S *”与“int”的间接级别不同
+  test11_26.vcxproj -> E:\code\test11_26\Debug\test11_26.exe
